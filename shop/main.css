@@ -1,0 +1,56 @@
+body {
+background-image: url("bg.jpg");
+    height: 500px;
+    position: relative;
+    bottom: -40px;
+  }
+header{
+  background-color: black;
+  color: white;
+  position: relative;
+  width: auto;
+  height: 100px;
+}
+main{
+  background-color: black;
+  height: 500px;
+  width: auto;
+  color: white;
+}
+footer{
+	object-position: bottom;
+	color: white;
+	align-self: right;
+	width: auto;
+	background-color: black;
+	height: 50px;
+}
+#start_button{
+align-content: center;
+color: white;
+background-color: transparent; 
+height: 100px;
+width: 400px;
+position: relative;
+left: 20px;
+}
+#login_button{
+align-self: center;
+color: black;
+background-color: white; 
+position: relative;
+left:500px;
+border-color: blue;
+height: 100px;
+width: 400px;
+}
+#copyright{
+	text-align: right;
+}
+#introducere{
+	font-size: 20px;
+	font-family: monospace;
+	font-style: oblique;
+	padding-left: 40px;
+
+}

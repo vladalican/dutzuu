@@ -1,0 +1,33 @@
+body{
+	background-image: url("images.jpg");
+
+	 height: 10px;
+}
+#prezentare{
+	background-color: black;
+	color: white;
+	font-size:30px;
+	font-family: monospace;
+	width: 700px;
+	list-style-position: all;
+	height: auto;
+	position: relative;
+	margin: auto;
+
+}
+li{
+list-style: 
+	
+}
+#login_body{
+	background-color: black;
+	color: white;
+	font-size:30px;
+	font-family: monospace;
+	width: auto;
+	height: auto;
+}
+input{
+	border-color: red;
+	border-width: 5px;
+}
